@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!128 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 26
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+  defaultScreenOrientation: 4
+  targetDevice: 2
+  useOnDemandResources: 0
+  accelerometerFrequency: 60
+  companyName: DefaultCompany
+  productName: MetaQuest3Template
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
+  m_SplashScreenOverlayOpacity: 1
+  m_SplashScreenAnimation: 1
+  m_SplashScreenLogoStyle: 1
+  m_SplashScreenDrawMode: 0
+  m_SplashScreenBackgroundAnimationZoom: 1
+  m_SplashScreenLogoAnimationZoom: 1
+  m_SplashScreenBackgroundLandscapeAspectRatio: 2
+  m_SplashScreenBackgroundPortraitAspectRatio: 1
+  m_SplashScreenLogos: []
+  m_VirtualRealitySDKs:
+  - OpenXR
+  m_TargetDevice: 2
+  m_UseOnDemandResources: 0
+  m_AccelerometerFrequency: 60
+  m_AndroidProfiler: 0
+  m_AndroidFilterTouchesWhenObscured: 0
+  m_AndroidEnableSustainedPerformanceMode: 0
+  m_DefaultScreenOrientation: 4
+  targetDevice: 2
